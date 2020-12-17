@@ -1,5 +1,5 @@
-Programmed with Python. It's discord bot.
-By.Mooner510
+# Bukkit-Starter
+Programmed with Python. It's discord bot. ***By.Mooner510***
 
 ## Start
 1. 해당 파일과 **같은 위치**에 `token.txt`, `channel.txt`라는 파일을 만들어 주세요.
